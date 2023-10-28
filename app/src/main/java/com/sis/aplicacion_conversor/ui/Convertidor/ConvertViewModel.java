@@ -5,15 +5,13 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 public class ConvertViewModel extends ViewModel {
-
-    private final MutableLiveData<String> mText;
+    private CurrencyRepository currencyRepository;
 
     public ConvertViewModel() {
-        mText = new MutableLiveData<>();
-        mText.setValue("This is home fragment");
+        currencyRepository = new CurrencyRepositoryImpl();
     }
 
-    public LiveData<String> getText() {
-        return mText;
+    public LiveData<Double> getConversionRate(String fromCurrency, String toCurrency) {
+        return currencyRepository.getConversionRate(fromCurrency, toCurrency);
     }
 }
