@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplicacion_conversor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="convertidor">convertidor</string>
+    <string name="detalles">detalles_moneda\n</string>
+    <string name="ingreso">ingreso_moneda</string>
+    <string name="pais">pais</string>
+    <string name="moneda_de_origen">Moneda de Origen</string>
+    <string name="tasa_de_cambio">Tasa de cambio</string>
+    <string name="moneda_de_destino">moneda destino</string>
+    <string name="actualizar">actualizar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="agregar_tasa_de_cambio">tasa de cambio</string>
+    <string name="detalle_de_la_monedas">Detalle de la monedas</string>
+    <string name="nombre_de_moneda">Nombre de Moneda</string>
+    <string name="Aplicacion">Aplicacion para convertir moneda</string>
+</resources>
