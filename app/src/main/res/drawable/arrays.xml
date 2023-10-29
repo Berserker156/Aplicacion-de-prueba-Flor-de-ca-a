@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <array android:name="currencies">
+        <item>Euro</item>
+        <item>Dólar</item>
+        <item>Córdoba</item>
+        <!-- Add more items as needed -->
+    </array>
+</resources>

@@ -1,5 +1,8 @@
 package com.sis.aplicacion_conversor.ui.Convertidor;
 
+import com.sis.aplicacion_conversor.repositorie.CurrencyRepository;
+import com.sis.aplicacion_conversor.repositorie.CurrencyRepositoryImpl;
+
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;

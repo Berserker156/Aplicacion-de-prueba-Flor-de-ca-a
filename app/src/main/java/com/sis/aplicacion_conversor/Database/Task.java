@@ -1,4 +1,7 @@
 package com.sis.aplicacion_conversor.Database;
+import io.realm.RealmObject;
+import io.realm.annotations.PrimaryKey;
+import io.realm.annotations.Required;
 
 public class Task extends RealmObject {
     @PrimaryKey private String name;
