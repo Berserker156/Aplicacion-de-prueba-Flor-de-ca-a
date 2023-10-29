@@ -12,6 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.sis.aplicacion_conversor.databinding.FragmentConvertidorBinding;
+import com.sis.aplicacion_conversor.viewModel.ConvertViewModel;
 
 public class ConvertFragment extends Fragment {
 

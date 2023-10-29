@@ -1,4 +1,4 @@
-package com.sis.aplicacion_conversor.ui.Convertidor;
+package com.sis.aplicacion_conversor.viewModel;
 
 import com.sis.aplicacion_conversor.repositorie.CurrencyRepository;
 import com.sis.aplicacion_conversor.repositorie.CurrencyRepositoryImpl;

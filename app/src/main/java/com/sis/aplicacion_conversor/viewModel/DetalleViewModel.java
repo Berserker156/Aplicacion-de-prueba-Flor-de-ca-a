@@ -1,4 +1,4 @@
-package com.sis.aplicacion_conversor.ui.Detalles;
+package com.sis.aplicacion_conversor.viewModel;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
