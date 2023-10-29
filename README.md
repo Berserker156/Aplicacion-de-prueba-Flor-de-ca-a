@@ -6,3 +6,5 @@ quedo a la espera de sus comentarios para seguir mejorando y tambien quedo atent
 
 
 no he logrado completar la prueba por falta de tiempo tuve un percanse ayer en la tarde con una de mis mascotas y tuve que atenderlo
+
+no hice modificiones al SDK y JDK
