@@ -27,7 +27,7 @@ public class ConvertFragment extends Fragment {
 
         // Vincula elementos de la vista
         Spinner fromCurrencySpinner = binding.fromCurrencySpinner;
-        Spinner toCurrencySpinner = binding.toCurrencySpinner;
+        Spinner toCurrencySpinner = binding.fromCurrencySpinner;
 
         // Configura adaptadores para los Spinner (Euro, Dólar, Córdoba)
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(

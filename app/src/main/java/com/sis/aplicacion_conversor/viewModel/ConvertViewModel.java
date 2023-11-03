@@ -8,7 +8,7 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 public class ConvertViewModel extends ViewModel {
-    private CurrencyRepository currencyRepository;
+    public CurrencyRepository currencyRepository;
 
     public ConvertViewModel() {
         currencyRepository = new CurrencyRepositoryImpl();
